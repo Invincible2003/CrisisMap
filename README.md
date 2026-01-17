@@ -1,3 +1,6 @@
+## LIVE DEMO
+https://crisis-map.vercel.app
+
 # CrisisMap – Disaster & Emergency Alert App
 
 A world-class mobile-first web application designed to help citizens during disasters with live alerts, safe routes, SOS emergency system, nearest hospitals/police, and safe zone navigation.
